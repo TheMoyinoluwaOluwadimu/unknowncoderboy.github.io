@@ -91,6 +91,10 @@ img {
     bottom: 20px;
     right: 20px;
 }
+.Visit a{
+    text-decoration: none;
+    color: white;
+}
 
 .Visit button {
     padding: 10px 20px;
@@ -151,7 +155,12 @@ img {
 @media (max-width:750px) {
     .product{
         width: 100%;
-        margin: 8px 35px;
+        margin: 8px 33.3px;
         padding: 16px 10px;
+    }
+    .header{
+
+        font-family: serif;
+        font-size: 16px;
     }
 }
